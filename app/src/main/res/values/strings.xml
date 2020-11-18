@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">CookBook</string>
+
+    <!-- Common String -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Fragment Title -->
+    <string name="main_data">Main Data</string>
+    <string name="add_ingredients">Add Ingredients</string>
+    <string name="add_step">Add Step</string>
+
+    <!-- Create Recipe Activity -->
+    <string name="alert_dialog_title_cancel">Cancel the creation ?</string>
+
 </resources>
